@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/TienHuy272/chat_application/static/css/main.0c3bffee.chunk.css",
-    "main.js": "/TienHuy272/chat_application/static/js/main.4abac519.chunk.js",
-    "main.js.map": "/TienHuy272/chat_application/static/js/main.4abac519.chunk.js.map",
-    "runtime-main.js": "/TienHuy272/chat_application/static/js/runtime-main.4f6c1951.js",
-    "runtime-main.js.map": "/TienHuy272/chat_application/static/js/runtime-main.4f6c1951.js.map",
-    "static/js/2.c8ba995f.chunk.js": "/TienHuy272/chat_application/static/js/2.c8ba995f.chunk.js",
-    "static/js/2.c8ba995f.chunk.js.map": "/TienHuy272/chat_application/static/js/2.c8ba995f.chunk.js.map",
-    "index.html": "/TienHuy272/chat_application/index.html",
-    "static/css/main.0c3bffee.chunk.css.map": "/TienHuy272/chat_application/static/css/main.0c3bffee.chunk.css.map",
-    "static/js/2.c8ba995f.chunk.js.LICENSE.txt": "/TienHuy272/chat_application/static/js/2.c8ba995f.chunk.js.LICENSE.txt"
+    "main.css": "/TienHuy272/chat_application/demo/static/css/main.0c3bffee.chunk.css",
+    "main.js": "/TienHuy272/chat_application/demo/static/js/main.4abac519.chunk.js",
+    "main.js.map": "/TienHuy272/chat_application/demo/static/js/main.4abac519.chunk.js.map",
+    "runtime-main.js": "/TienHuy272/chat_application/demo/static/js/runtime-main.80957f47.js",
+    "runtime-main.js.map": "/TienHuy272/chat_application/demo/static/js/runtime-main.80957f47.js.map",
+    "static/js/2.c8ba995f.chunk.js": "/TienHuy272/chat_application/demo/static/js/2.c8ba995f.chunk.js",
+    "static/js/2.c8ba995f.chunk.js.map": "/TienHuy272/chat_application/demo/static/js/2.c8ba995f.chunk.js.map",
+    "index.html": "/TienHuy272/chat_application/demo/index.html",
+    "static/css/main.0c3bffee.chunk.css.map": "/TienHuy272/chat_application/demo/static/css/main.0c3bffee.chunk.css.map",
+    "static/js/2.c8ba995f.chunk.js.LICENSE.txt": "/TienHuy272/chat_application/demo/static/js/2.c8ba995f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f6c1951.js",
+    "static/js/runtime-main.80957f47.js",
     "static/js/2.c8ba995f.chunk.js",
     "static/css/main.0c3bffee.chunk.css",
     "static/js/main.4abac519.chunk.js"
